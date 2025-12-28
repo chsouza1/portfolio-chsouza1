@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Mail, ExternalLink, Code2, Smartphone, Database, Terminal } from 'lucide-react';
+import { Github, Linkedin, ExternalLink, Code2, Smartphone, Database, Terminal } from 'lucide-react';
 
 const projects = [
   {
